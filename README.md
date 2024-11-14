@@ -33,6 +33,7 @@ Make it executable
 ```
 
 Place your configs at `/etc/otpgen/config.yaml`
+You can add as many keys as you like.
 
 ```yaml
 keys:

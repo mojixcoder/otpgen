@@ -32,7 +32,7 @@ Make it executable
   sudo chmod +x /usr/local/bin/otpgen
 ```
 
-Place your configs at `/etc/otpgen/config.yaml`
+Place your configs at `/etc/otpgen/config.yaml`.  
 You can add as many keys as you like.
 
 ```yaml
